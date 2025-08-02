@@ -1,0 +1,19 @@
+body {
+  scroll-behavior: smooth;
+}
+
+section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+#home {
+  background: url('assets/images/ngo-banner.jpg') no-repeat center center/cover;
+  color: white;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
