@@ -48,7 +48,7 @@ A form to collect volunteer data like name, email, interest area, and availabili
 
 ```
 # 1. Clone this repo
-git clone https://github.com/yourusername/helping-hands-ngo.git
+git clone https://github.com/yatish-debug/helping-hands-ngo.git
 
 # 2. Open the project folder
 cd helping-hands-ngo
