@@ -32,7 +32,7 @@ A form to collect volunteer data like name, email, interest area, and availabili
 
 ## 🚀 Live Demo
 
-🌍 [Click here to view the live site](https://yatish-debug.github.io/helping-hands-ngo)
+🌍 [Click here to view the live site](https://yatish-debug.github.io/HELPING-HANDS-NGO/)
 
 ---
 
